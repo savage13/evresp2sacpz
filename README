@@ -1,0 +1,11 @@
+
+evresp2sacpz.py
+
+Convert a Evalresp file into a SAC Pole Zero file, both files are of the same
+   format output by rdseed
+
+SAC Polezero file is built from station/net/channel
+
+Usage: evresp2sacpz.py RESP-file
+
+
